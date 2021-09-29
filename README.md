@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 ##Introduction
-This is changed randomly
+
+This is changed randomly from myfeature
 
 ## Purpose
 
